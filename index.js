@@ -17,7 +17,7 @@ myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
-
+//nestedFunction can access the variable internal because it is using a closure. This means that it is able to look outside of it's function block and grab from the function above and the global scope.
 
 
 
